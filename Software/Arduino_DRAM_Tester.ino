@@ -7,6 +7,7 @@
 // NOTES:
 // Mega 8VDC external input, draw 100ma idle, 150ma testing 41256
 // 4116 -5V->200ua, +5V->1ma, 12V->35ma
+//#define ARDUINO_AVR_MEGA2560
 
 #include "All_Defs.h"
 #ifdef ARDUINO_AVR_MEGA2560
